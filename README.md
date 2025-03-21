@@ -1,11 +1,10 @@
 # Weather-Monitoring-system-using-HTML-CSS-JS
+## Technology Stack:
 
-Technology Stack:
+### Frontend: HTML, CSS, JavaScript
 
-Frontend: HTML, CSS, JavaScript
+## #API: OpenWeatherMap API
 
-API: OpenWeatherMap API
-
-External Libraries: Font Awesome (for icons), SweetAlert (for alerts)
+### External Libraries: Font Awesome (for icons), SweetAlert (for alerts)
 
 
