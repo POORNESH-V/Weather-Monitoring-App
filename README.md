@@ -3,7 +3,7 @@
 
 ### Frontend: HTML, CSS, JavaScript
 
-## #API: OpenWeatherMap API
+### API: OpenWeatherMap API
 
 ### External Libraries: Font Awesome (for icons), SweetAlert (for alerts)
 
