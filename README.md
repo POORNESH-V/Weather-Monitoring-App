@@ -1,7 +1,7 @@
 # Weather-Monitoring-system-using-HTML-CSS-JS
 ## Technology Stack:
 
-### Frontend: HTML, CSS, JavaScrip
+### Frontend: HTML, CSS, JavaScript
 
 ### API: OpenWeatherMap API
 
